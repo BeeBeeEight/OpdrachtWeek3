@@ -1,0 +1,23 @@
+{
+  "name": "opdrachtweek3",
+  "version": "1.0.0",
+  "description": "Opdracht week 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeeBeeEight/OpdrachtWeek3.git"
+  },
+  "author": "Teun Roelandt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeeBeeEight/OpdrachtWeek3/issues"
+  },
+  "homepage": "https://github.com/BeeBeeEight/OpdrachtWeek3#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
+  }
+}
